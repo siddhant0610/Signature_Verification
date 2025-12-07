@@ -1,4 +1,7 @@
-Lib\
-Scripts\
+# Ignore virtual environment
+Include/
+Lib/
+Scripts/
 pyvenv.cfg
-
+venv/
+env/
