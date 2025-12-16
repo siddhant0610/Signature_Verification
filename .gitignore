@@ -7,3 +7,5 @@ venv/
 env/
 share/
 signatures/
+.ipynb_checkpoints
+embeddings.npz
